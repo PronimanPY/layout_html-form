@@ -9,10 +9,6 @@
   margin-bottom: 20px;
 }
 
-#acceptRules {
-  margin-bottom: 11px;
-}
-
 #password {
   margin-bottom: 7px;
 }
@@ -21,7 +17,8 @@
   margin-bottom: 14px;
 }
 
-#rateUs {
+#rateUs,
+#acceptRules {
   margin-bottom: 11px;
 }
 
