@@ -1,27 +1,11 @@
 /* styles go here */
 
-.form-input {
+.form-field {
   margin-bottom: 10px;
 }
 
 .fieldset-block {
-  padding-bottom: 3px;
   margin-bottom: 20px;
+  padding-bottom: 0;
 }
 
-#password {
-  margin-bottom: 7px;
-}
-
-#loveCats {
-  margin-bottom: 14px;
-}
-
-#rateUs,
-#acceptRules {
-  margin-bottom: 11px;
-}
-
-#recommendUs {
-  margin-bottom: 7px;
-}
